@@ -5,5 +5,7 @@ Ideal circle has zero deviation, so, lower numbers are closer to the ideal.
 
 You can also train to draw in a given proportion by looking at the radii, e.g. drawing a circle that is half the size of another one.
 
+To clear the screen, just reload the browser tab.
+
 # Installation
 No installation is required. Just go to https://neinei0k.github.io/circle-drawing-training/index.html
